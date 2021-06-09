@@ -1,0 +1,20 @@
+.border{
+    padding: 20px;
+    border-style: solid;
+    border-color: black;
+}
+#submitbutton{
+    padding-left: 40%;
+}
+#div{
+    margin-left: 18%;
+    width: 60%;
+    margin-top: 8%;
+}
+#radios{
+    background-color: green;
+}
+.form-control{
+    border:none;
+    background-color:lightgray;
+}
